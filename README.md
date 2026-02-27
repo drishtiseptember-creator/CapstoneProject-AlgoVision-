@@ -3,6 +3,7 @@
 Name: DRISHTI YADAV
 
 OVERVIEW:
+
 'AlgoVision' is a Data Structures and Algorithms based system designed as an e-commerce product management and budget optimization tool.
 
 The project includes use of:
@@ -20,6 +21,7 @@ It allows users to:
 - Optimize spending within a given budget
 
 OBJECTIVE:
+
 The objective of this project is to apply DSA concepts to build a structured and modular system that performs efficient product storage and search using BST, and budget optimization using the 0/1 Knapsack algorithm.
 
 DSA USED:
