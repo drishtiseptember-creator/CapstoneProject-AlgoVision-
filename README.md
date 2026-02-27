@@ -12,16 +12,16 @@ The project includes use of:
 
 -Queues
 
-- Binary Search Tree (BST)
-- Dynamic Programming (0/1 Knapsack Algorithm)
-- Greedy Algorithms
-- Modular Programming in C
+-Binary Search Tree (BST)
+-Dynamic Programming (0/1 Knapsack Algorithm)
+-Greedy Algorithms
+-Modular Programming in C
 
 It allows users to:
-- Add products
-- View sorted prices
-- Search products
-- Optimize spending within a given budget
+-Add products
+-View sorted prices
+-Search products
+-Optimize spending within a given budget
 
 OBJECTIVE:
 
