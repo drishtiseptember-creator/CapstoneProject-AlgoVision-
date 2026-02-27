@@ -7,8 +7,11 @@ OVERVIEW:
 'AlgoVision' is a Data Structures and Algorithms based system designed as an e-commerce product management and budget optimization tool.
 
 The project includes use of:
+
 -Array
+
 -Queues
+
 - Binary Search Tree (BST)
 - Dynamic Programming (0/1 Knapsack Algorithm)
 - Greedy Algorithms
